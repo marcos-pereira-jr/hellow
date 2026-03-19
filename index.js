@@ -1,1 +1,1 @@
-export default hellow = (value) => console.log(value)
+export default hellow = (value) => console.log("hellow " + value)
