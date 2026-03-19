@@ -1,0 +1,1 @@
+export default hellow = (value) => console.log(value)
