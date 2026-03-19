@@ -1,1 +1,2 @@
-export default hellow = (value) => console.log("hellow " + value)
+const hellow = (value) => console.log("hellow " + value)
+module.exports = hellow;
